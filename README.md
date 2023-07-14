@@ -1,0 +1,1 @@
+RandomQuestionConsoleApp is a C# and .NET6 application written to show my C# skills. It shows off a variety of features such as: variable allocation, loops, control logic, method creation and consumption.
